@@ -31,5 +31,5 @@ def play_game():
     result = determine_winner(user_choice, computer_choice)
     print(result)
 
-# Run the game
+
 play_game()
